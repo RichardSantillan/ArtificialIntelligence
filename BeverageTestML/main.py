@@ -1,5 +1,7 @@
 from sklearn import tree
 
+#Needs Refactoring 9/28/17
+
 #[alcohol percent, color of drink]
 #amber = 0, red = 1, clear = 2, green = 3
 features = [[4.5,0],[11.6,1],[37,2],[40,3]]
